@@ -35,3 +35,7 @@ Here is a sample usage::
    Copying generated meta from APIC to /Users/praveen/.aci-meta/aci-meta.1.2(0.104a).json
    No default meta exist. Setting the current meta as the default.
 
+You can download remtagen.py from the location below
+https://github.com/datacenter/pyaci/blob/master/scripts/rmetagen.py
+
+
